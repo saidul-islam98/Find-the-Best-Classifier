@@ -1,5 +1,4 @@
-# Loan Classification Project
-
+# Loan Payment Status Classification
 ## Overview
 
 This project aims to find the best classifier for predicting loan payment status. We use various machine learning algorithms to analyze a dataset of past loans and determine which borrowers are likely to pay off their loans or default.
